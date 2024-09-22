@@ -3,6 +3,8 @@
 
 - [Personal Website](https://github.com/arjohnsonn/arjohnsonn.github.io)<br />
   - My website!
+- [Help Me Bevo](https://github.com/arjohnsonn/Help-Me-Bevo)<br />
+  - A browser extension to show the infamous Bevo 3rd down animation when you submit an assignment.
 - [Jarvie A Day](https://github.com/arjohnsonn/Jarvie-A-Day)<br />
   - An iOS application I made for fun to show my friend's cat everyday!
 - [Timothy](https://github.com/arjohnsonn/Timothy)
