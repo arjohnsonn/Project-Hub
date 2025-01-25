@@ -1,5 +1,5 @@
 # Project Hub
-### You can find all my side and passion projects' respositories here!
+### You can find all my side and passion projects' repositories here!
 
 - [Personal Website](https://github.com/arjohnsonn/portfolio)<br />
   - My website!
